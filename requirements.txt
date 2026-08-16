@@ -1,7 +1,8 @@
 gpiozero
 lgpio
-adafruit-blinka
-adafruit-circuitpython-displayio-sh1106
-adafruit-circuitpython-busdisplay
-Pillow
 RPi.GPIO
+adafruit-blinka
+adafruit-blinka-displayio
+adafruit-circuitpython-displayio-sh1106
+adafruit-circuitpython-display-text
+Pillow
